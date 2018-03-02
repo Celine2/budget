@@ -1,0 +1,56 @@
+
+
+
+body
+
+{
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+
+#image
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60px;
+	height: 60px;
+
+}
+
+section
+{
+	
+	text-align: center;
+}
+
+
+h2
+{
+	background-color: #3f51b5;
+	text-transform: uppercase;
+	font-color: white;
+
+}
+	
+
+h3
+{
+	background-color: #009688;
+	text-align: center;
+}
+
+label
+{
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+
+footer
+{
+	text-align: center;
+}
+
